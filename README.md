@@ -11,4 +11,5 @@ The `OpenData.png` file is the image file to be used for the badge!
 If you're new to LaTeX, you can make a free account on Overleaf.com, upload the .tex and .png file to a project to see how it works!
 
 It should look something like this!
+
 ![image](https://github.com/user-attachments/assets/f5cc1b89-84a1-4c78-9c7e-bc1fb152342a)
